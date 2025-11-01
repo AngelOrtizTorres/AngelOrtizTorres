@@ -1,8 +1,8 @@
 # ¡Hola, soy Ángel Ortiz Torres!
 
 Soy estudiante de **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
-Me apasiona el **desarrollo web**, especialmente el **Frontend**, así como las **tecnologías emergentes** y la **programación** en general.  
-Estoy comprometido con **aprender, crear proyectos innovadores** y **mejorar mis habilidades día a día**.  
+Me encanta el **desarrollo web**, especialmente el **Frontend**, además de la **programación**. 
+Siempre quiero **aprender más** y sobretodo **mejorar mis capacidades**.
 
 ---
 
@@ -13,6 +13,15 @@ Estoy comprometido con **aprender, crear proyectos innovadores** y **mejorar mis
 **Bases de datos:** MySQL  
 **Herramientas:** Git, GitHub, VSCode, Docker, AWS  
 **Otros:** Trabajo en equipo, Comunicación  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 
 ---
 
