@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola, soy Ángel Ortiz Torres!
 
-<!--
-**AngelOrtizTorres/AngelOrtizTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
+Me apasiona el **desarrollo web**, especialmente el **Frontend**, así como las **tecnologías emergentes** y la **programación** en general.  
+Estoy comprometido con **aprender, crear proyectos innovadores** y **mejorar mis habilidades día a día**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades  
+
+**Frontend:** JavaScript, React, HTML, CSS  
+**Backend:** PHP, Python  
+**Bases de datos:** MySQL  
+**Herramientas:** Git, GitHub, VSCode, Docker, AWS  
+**Otros:** Trabajo en equipo, Comunicación  
+
+---
+
+## Aprendizaje  
+
+Actualmente estoy profundizando en **TailwindCSS** y perfeccionando mis conocimientos en **React** y **JavaScript**,  
+con el objetivo de especializarme en el **desarrollo frontend moderno** y crear experiencias web rápidas, accesibles y atractivas.  
+
+---
+
+## Contacto  
+
+[LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-ortiz-torres-6527b7339/)
+📧 **Email:** 4ngel0rtiz7orres0330@gmail.com
+
+---
+
+## Estadísticas de GitHub  
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AngelOrtizTorres&show_icons=true&theme=github_dark)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark)  
+
