@@ -26,12 +26,12 @@ con el objetivo de especializarme en el **desarrollo frontend moderno** y crear 
 ## Contacto  
 
 [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-ortiz-torres-6527b7339/)
+
 📧 **Email:** 4ngel0rtiz7orres0330@gmail.com
 
 ---
 
 ## Estadísticas de GitHub  
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AngelOrtizTorres&show_icons=true&theme=github_dark)  
+ 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark)  
 
