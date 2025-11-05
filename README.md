@@ -41,5 +41,4 @@ con el objetivo de especializarme en el **desarrollo frontend moderno** y crear 
 ## 📊 Estadísticas de GitHub  
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark)  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AngelOrtizTorres&show_icons=true&theme=github_dark)  
-![Racha de contribuciones](https://streak-stats.demolab.com?user=AngelOrtizTorres&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)
+![Resumen de perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelOrtizTorres&theme=github_dark)
