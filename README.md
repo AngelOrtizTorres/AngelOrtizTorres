@@ -41,10 +41,6 @@ con el objetivo de especializarme en el **desarrollo frontend moderno** y crear 
   <a href="mailto:4ngel0rtiz7orres0330@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AngelOrtizTorres" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  </a>
 </p>
 
 ---
@@ -56,7 +52,3 @@ con el objetivo de especializarme en el **desarrollo frontend moderno** y crear 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelOrtizTorres&theme=github_dark" height="170" alt="Resumen de perfil"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelOrtizTorres&show_icons=true&theme=github_dark" height="170" alt="Estadísticas de GitHub"/>
-  <img src="https://streak-stats.demolab.com?user=AngelOrtizTorres&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" height="170" alt="Racha de contribuciones"/>
-</p>
