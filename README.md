@@ -1,5 +1,7 @@
 # ¡Hola, soy Ángel Ortiz Torres!
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 Soy estudiante de **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
 Me encanta el **desarrollo web**, especialmente el **Frontend**, además de la **programación**. 
 Siempre quiero **aprender más** y sobretodo **mejorar mis capacidades**.
@@ -22,7 +24,6 @@ Siempre quiero **aprender más** y sobretodo **mejorar mis capacidades**.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-
 ---
 
 ## Aprendizaje  
@@ -42,5 +43,4 @@ con el objetivo de especializarme en el **desarrollo frontend moderno** y crear 
 
 ## Estadísticas de GitHub  
  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark)  
-
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark)
