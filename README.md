@@ -1,14 +1,12 @@
-# ¡Hola, soy Ángel Ortiz Torres!
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+# ¡Hola, soy Ángel Ortiz Torres! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Hola GIF">
 
 Soy estudiante de **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
-Me encanta el **desarrollo web**, especialmente el **Frontend**, además de la **programación**. 
+Me encanta el **desarrollo web**, especialmente el **Frontend**, además de la **programación**.  
 Siempre quiero **aprender más** y sobretodo **mejorar mis capacidades**.
 
 ---
 
-## Habilidades  
+## 🧠 Habilidades  
 
 **Frontend:** JavaScript, React, HTML, CSS  
 **Backend:** PHP, Python  
@@ -26,21 +24,22 @@ Siempre quiero **aprender más** y sobretodo **mejorar mis capacidades**.
 
 ---
 
-## Aprendizaje  
+## 📚 Aprendizaje  
 
 Actualmente estoy profundizando en **TailwindCSS** y perfeccionando mis conocimientos en **React** y **JavaScript**,  
 con el objetivo de especializarme en el **desarrollo frontend moderno** y crear experiencias web rápidas, accesibles y atractivas.  
 
 ---
 
-## Contacto  
+## 📬 Contacto  
 
-[LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-ortiz-torres-6527b7339/)
-
-📧 **Email:** 4ngel0rtiz7orres0330@gmail.com
+[LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-ortiz-torres-6527b7339/)  
+📧 **Email:** 4ngel0rtiz7orres0330@gmail.com  
 
 ---
 
-## Estadísticas de GitHub  
- 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark)
+## 📊 Estadísticas de GitHub  
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AngelOrtizTorres&show_icons=true&theme=github_dark)  
+![Racha de contribuciones](https://streak-stats.demolab.com?user=AngelOrtizTorres&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)
