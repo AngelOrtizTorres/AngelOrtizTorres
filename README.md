@@ -1,4 +1,4 @@
-# ¡Hola, soy Ángel Ortiz Torres! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Hola GIF">
+# ¡Hola, soy Ángel Ortiz Torres! 😁
 
 Soy estudiante de **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
 Me encanta el **desarrollo web**, especialmente el **Frontend**, además de la **programación**.  
@@ -33,12 +33,30 @@ con el objetivo de especializarme en el **desarrollo frontend moderno** y crear 
 
 ## 📬 Contacto  
 
-[LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-ortiz-torres-6527b7339/)  
-📧 **Email:** 4ngel0rtiz7orres0330@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/%C3%A1ngel-ortiz-torres-6527b7339/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:4ngel0rtiz7orres0330@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AngelOrtizTorres" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 Estadísticas de GitHub  
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark)  
-![Resumen de perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelOrtizTorres&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark" height="170" alt="Lenguajes más usados"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelOrtizTorres&theme=github_dark" height="170" alt="Resumen de perfil"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelOrtizTorres&show_icons=true&theme=github_dark" height="170" alt="Estadísticas de GitHub"/>
+  <img src="https://streak-stats.demolab.com?user=AngelOrtizTorres&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" height="170" alt="Racha de contribuciones"/>
+</p>
