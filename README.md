@@ -40,7 +40,7 @@ Me apasiona transformar ideas en **experiencias web excepcionales**. Especializa
 
 Estoy en una **misión constante por mejorar** mis habilidades en desarrollo web. Actualmente profundizo en:
 
-- 🎨 **Frontend Moderno:** Construcción de interfaces intuitivas con React, TailwindCSS y últimas prácticas CSS3
+- 🎨 **Frontend Moderno:** Construcción de interfaces intuitivas con React y TailwindCSS
 - 🚀 **Full-Stack con Laravel:** Desarrollo completo de aplicaciones web empresariales con Livewire
 - 💡 **Optimización y Rendimiento:** Creación de experiencias web rápidas, accesibles y escalables
 - 🌐 **Frameworks Emergentes:** Explorando Astro para sitios estáticos de alto rendimiento
@@ -51,7 +51,7 @@ Estoy en una **misión constante por mejorar** mis habilidades en desarrollo web
 
 ---
 
-## � Conecta Conmigo
+## 💬 Conecta Conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%C3%A1ngel-ortiz-torres-6527b7339/" target="_blank">
