@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1¢er=true&vCenter=true&width=500&lines=Hola%2C+soy+%C3%81ngel+%F0%9F%91%8B;Desarrollador+Fullstack;Enfocado+en+Frontend+moderno;React+%C2%B7+TypeScript+%C2%B7+Astro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hola%2C+soy+%C3%81ngel+%F0%9F%91%8B;Desarrollador+Fullstack;Enfocado+en+Frontend+moderno;React+%C2%B7+TypeScript+%C2%B7+Astro" alt="Typing SVG" />
 </p>
 
 <p align="center">
