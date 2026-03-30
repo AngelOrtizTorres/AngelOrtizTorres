@@ -7,20 +7,6 @@
   Desarrollador Fullstack con foco en Frontend &middot; C&oacute;rdoba, Espa&ntilde;a
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/TU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://TU-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:TU-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## Sobre mí
