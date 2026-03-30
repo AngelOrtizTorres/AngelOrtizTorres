@@ -1,78 +1,82 @@
-# 👋 ¡Hola, soy Ángel Ortiz Torres! 
-
-Soy **desarrollador web en formación** 🚀 cursando el **2º año del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.
-
-Me apasiona transformar ideas en **experiencias web excepcionales**. Especializado en **frontend moderno** con sólidos conocimientos en backend, siempre buscando aprender, innovar y crear soluciones de calidad profesional.
-
----
-
-## 🛠️ Stack Tecnológico
-
-### 🎨 Frontend Moderno
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
-
-### 🔧 Backend Robusto
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-### 💾 Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-
-### 🐳 DevOps & Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-### 💪 Habilidades Blandas
-**Trabajo en equipo** | **Comunicación efectiva** | **Resolución de problemas** | **Pensamiento analítico**
-
----
-
-## 📚 Mi Enfoque de Aprendizaje
-
-Estoy en una **misión constante por mejorar** mis habilidades en desarrollo web. Actualmente profundizo en:
-
-- 🎨 **Frontend Moderno:** Construcción de interfaces intuitivas con React y TailwindCSS
-- 🚀 **Full-Stack con Laravel:** Desarrollo completo de aplicaciones web empresariales con Livewire
-- 💡 **Optimización y Rendimiento:** Creación de experiencias web rápidas, accesibles y escalables
-- 🌐 **Frameworks Emergentes:** Explorando Astro para sitios estáticos de alto rendimiento
-- ⚡ **Interactividad Ligera:** Alpine.js para funcionalidad dinámica sin overhead de JavaScript pesado
-- 🗄️ **Bases de Datos Modernas:** Trabajando con PostgreSQL y Supabase para soluciones backend robustas
-
-**Objetivo:** Especializado en desarrollo frontend moderno con capacidades full-stack que me permita crear soluciones web profesionales, escalables y de alta calidad.  
-
----
-
-## 💬 Conecta Conmigo
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1¢er=true&vCenter=true&width=500&lines=Hola%2C+soy+%C3%81ngel+%F0%9F%91%8B;Desarrollador+Fullstack;Enfocado+en+Frontend+moderno;React+%C2%B7+TypeScript+%C2%B7+Astro" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%C3%A1ngel-ortiz-torres-6527b7339/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  Desarrollador Fullstack con foco en Frontend &middot; C&oacute;rdoba, Espa&ntilde;a
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:4ngel0rtiz7orres0330@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  &nbsp;
+  <a href="https://TU-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AngelOrtizTorres" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+  &nbsp;
+  <a href="mailto:TU-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 Actividad en GitHub
+## Sobre mí
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&theme=github_dark&hide_border=true" height="200" alt="Lenguajes más usados"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelOrtizTorres&theme=github_dark" height="200" alt="Resumen de perfil"/>
-</div>
+Desarrollador web fullstack con foco en frontend. Me interesa construir
+interfaces bien diseñadas respaldadas por una arquitectura limpia.
 
+Trabajo principalmente con **React**, **TypeScript** y **Astro** en el frontend,
+y **Laravel** cuando el proyecto necesita backend propio. También hago
+cosas raras en la terminal con Python.
+
+---
+
+## Stack
+
+**Frontend**
+
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Bases de datos & herramientas**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## Proyectos destacados
+
+> Los proyectos pinneados representan lo mejor de mi trabajo actual.
+> Cada uno incluye README con capturas, stack y enlace al deploy.
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelOrtizTorres&show_icons=true&hide_border=true&theme=default&hide=issues&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOrtizTorres&layout=compact&hide_border=true&theme=default" height="150" />
+</p>
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AngelOrtizTorres/AngelOrtizTorres/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
